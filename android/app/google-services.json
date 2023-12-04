@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706647505158",
+    "project_id": "loan-guide-6c150",
+    "storage_bucket": "loan-guide-6c150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706647505158:android:32feab486cc70491c74687",
+        "android_client_info": {
+          "package_name": "com.example.loan_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGQcw9f58EkIv1InzWq_BsclJh-7Pbkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
